@@ -39,9 +39,9 @@ const SubscribeBox = () => {
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
               <a href="https://github.com/DarkNight918">
-                <FontAwesomeIcon icon={faGithub} />
+                <FontAwesomeIcon icon={faGithub} />c
               </a>
-              <a href="https://t.me/DarkNight918">
+              <a href="https://t.me/DarkNight0918">
                 <FontAwesomeIcon icon={faTelegram} />
               </a>
               <a href="https://discordapp.com/users/1015255707421003776">
