@@ -35,7 +35,7 @@ const Footer = () => {
             </p>
 
             <div className="ficons">
-              <a href="https://www.linkedin.com/in/yi-hao-lee-a19221264/">
+              <a href="https://www.linkedin.com/in/yi-hao-lee-5a9440264/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
               <a href="https://github.com/DarkNight918">
