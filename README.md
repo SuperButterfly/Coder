@@ -4,7 +4,7 @@
 ### Creating By React Js:
 
     fortawesome svgcore
-    fortawesome freebrands svgicons
+    fortawesome freebrands svgicons    
     fortawesomefreeregularsvgicons
     fortawesomefreesolidsvgicons
 
