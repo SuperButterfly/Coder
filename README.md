@@ -17,7 +17,7 @@
     testinglibraryuserevent
     aos
     bootstrap
-    emailjscom
+    emailjscom     
     framermotion
     nodesass
     react
